@@ -12,11 +12,8 @@ const Landing = ({ isAuthenticated }) => {
     <section class='landing'>
       <div class='dark-overlay'>
         <div class='landing-inner'>
-          <h1 class='x-large'>Developer Connector</h1>
-          <p class='lead'>
-            Create a developer profile/portfolio, share posts and get help from
-            other developers
-          </p>
+          <h1 class='x-large'>Northwind DB</h1>
+          <p class='lead'></p>
           <div class='buttons'>
             <Link to='/register' class='btn btn-primary'>
               Sign Up
